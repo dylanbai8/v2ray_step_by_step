@@ -205,4 +205,10 @@ systemctl restart v2ray
 
 配置文件参照
 https://github.com/veekxt/v2ray-template/tree/master/tcp%2Bvmess%2BCN_direct
+
+新手推荐使用Debian系统
+CentOS需要手动开放防火墙端口 或者使用以下命令直接关闭防火墙：
+
+systemctl stop firewalld
+systemctl disable firewalld
 ```
