@@ -5,6 +5,10 @@
 ```
 其它配置文件自行参照
 https://github.com/veekxt/v2ray-template
+https://github.com/KiriKira/vTemplate
+
+https://veekxt.com/utils/v2ray_gen
+https://intmainreturn0.com/v2ray-config-gen
 ```
 
 ## 1.VPS安装Debian8 更新系统 安装必要软件
