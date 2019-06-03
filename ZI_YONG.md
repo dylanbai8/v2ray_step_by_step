@@ -40,4 +40,6 @@ cat <<EOF > /etc/v2ray/config.json
   ]
 }
 EOF
+
+systemctl restart v2ray
 ```
